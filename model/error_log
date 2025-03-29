@@ -1,0 +1,715 @@
+[21-Aug-2023 09:15:28 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[21-Aug-2023 09:15:28 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[21-Aug-2023 12:15:28 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[21-Aug-2023 12:15:28 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[21-Aug-2023 12:15:28 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/angacinemas/hello.angacinemas.com/model/operations2.php:39
+Stack trace:
+#0 /home/angacinemas/hello.angacinemas.com/model/calendar_info.php(11): select_rows('select * from d...')
+#1 {main}
+  thrown in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 39
+[21-Aug-2023 09:16:22 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[21-Aug-2023 09:16:22 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[21-Aug-2023 12:16:22 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[21-Aug-2023 12:16:22 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[21-Aug-2023 12:16:22 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/angacinemas/hello.angacinemas.com/model/operations2.php:39
+Stack trace:
+#0 /home/angacinemas/hello.angacinemas.com/model/calendar_info.php(11): select_rows('select * from d...')
+#1 {main}
+  thrown in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 39
+[21-Aug-2023 09:18:07 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[21-Aug-2023 09:18:07 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[21-Aug-2023 12:18:07 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[21-Aug-2023 12:18:07 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[21-Aug-2023 09:18:13 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[21-Aug-2023 09:18:13 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[21-Aug-2023 12:18:13 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[21-Aug-2023 12:18:13 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[21-Aug-2023 09:18:16 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[21-Aug-2023 09:18:16 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[21-Aug-2023 12:18:16 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[21-Aug-2023 12:18:16 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[21-Aug-2023 09:18:19 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[21-Aug-2023 09:18:19 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[21-Aug-2023 12:18:19 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[21-Aug-2023 12:18:19 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[21-Aug-2023 09:18:30 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[21-Aug-2023 09:18:30 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[21-Aug-2023 12:18:30 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[21-Aug-2023 12:18:30 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[21-Aug-2023 09:18:32 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[21-Aug-2023 09:18:32 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[21-Aug-2023 12:18:32 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[21-Aug-2023 12:18:32 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[24-Aug-2023 14:47:45 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[24-Aug-2023 14:47:45 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[24-Aug-2023 17:47:45 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[24-Aug-2023 17:47:45 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[24-Aug-2023 14:47:55 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[24-Aug-2023 14:47:55 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[24-Aug-2023 14:47:55 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[24-Aug-2023 14:47:55 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[24-Aug-2023 14:47:55 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[24-Aug-2023 14:47:55 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[24-Aug-2023 17:47:55 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[24-Aug-2023 17:47:55 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[24-Aug-2023 14:47:55 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[24-Aug-2023 14:47:55 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[24-Aug-2023 14:47:55 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[24-Aug-2023 14:47:55 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[24-Aug-2023 17:47:55 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[24-Aug-2023 17:47:55 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[24-Aug-2023 14:47:55 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[24-Aug-2023 14:47:55 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[24-Aug-2023 17:47:55 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[24-Aug-2023 17:47:55 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[24-Aug-2023 17:47:55 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[24-Aug-2023 17:47:55 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[24-Aug-2023 17:47:55 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[24-Aug-2023 17:47:55 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[24-Aug-2023 17:47:55 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[24-Aug-2023 17:47:55 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[24-Aug-2023 14:47:55 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[24-Aug-2023 14:47:55 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[24-Aug-2023 17:47:55 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[24-Aug-2023 17:47:55 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[24-Aug-2023 14:47:55 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[24-Aug-2023 14:47:55 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[24-Aug-2023 17:47:55 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[24-Aug-2023 17:47:55 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[31-Aug-2023 11:51:03 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Call to undefined function encryptmessage() in /home/angacinemas/hello.angacinemas.com/model/chat_send.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/angacinemas/hello.angacinemas.com/model/chat_send.php on line 3
+[31-Aug-2023 08:51:44 UTC] PHP Warning:  require_once(../../path.php): Failed to open stream: No such file or directory in /home/angacinemas/hello.angacinemas.com/model/update/create.php on line 2
+[31-Aug-2023 08:51:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../path.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/angacinemas/hello.angacinemas.com/model/update/create.php:2
+Stack trace:
+#0 /home/angacinemas/hello.angacinemas.com/model/chat_send.php(2): include_once()
+#1 {main}
+  thrown in /home/angacinemas/hello.angacinemas.com/model/update/create.php on line 2
+[31-Aug-2023 08:51:55 UTC] PHP Warning:  require_once(../../path.php): Failed to open stream: No such file or directory in /home/angacinemas/hello.angacinemas.com/model/update/create.php on line 2
+[31-Aug-2023 08:51:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../path.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/angacinemas/hello.angacinemas.com/model/update/create.php:2
+Stack trace:
+#0 /home/angacinemas/hello.angacinemas.com/model/chat_send.php(2): include_once()
+#1 {main}
+  thrown in /home/angacinemas/hello.angacinemas.com/model/update/create.php on line 2
+[01-Sep-2023 18:14:36 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[01-Sep-2023 18:14:36 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[01-Sep-2023 21:14:36 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[01-Sep-2023 21:14:36 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[01-Sep-2023 18:14:36 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[01-Sep-2023 18:14:36 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[01-Sep-2023 21:14:36 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[01-Sep-2023 21:14:36 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[01-Sep-2023 18:14:36 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[01-Sep-2023 18:14:36 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[01-Sep-2023 21:14:36 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[01-Sep-2023 21:14:36 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[01-Sep-2023 18:14:36 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[01-Sep-2023 18:14:36 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[01-Sep-2023 21:14:36 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[01-Sep-2023 21:14:36 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[01-Sep-2023 18:14:37 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[01-Sep-2023 18:14:37 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[01-Sep-2023 21:14:37 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[01-Sep-2023 21:14:37 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[01-Sep-2023 18:14:37 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[01-Sep-2023 18:14:37 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[01-Sep-2023 21:14:37 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[01-Sep-2023 21:14:37 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[01-Sep-2023 18:14:40 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[01-Sep-2023 18:14:40 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[01-Sep-2023 21:14:40 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[01-Sep-2023 21:14:40 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[01-Sep-2023 18:14:40 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[01-Sep-2023 18:14:40 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[01-Sep-2023 21:14:40 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[01-Sep-2023 21:14:40 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[01-Sep-2023 18:15:27 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[01-Sep-2023 18:15:27 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[01-Sep-2023 21:15:27 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[01-Sep-2023 21:15:27 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[01-Sep-2023 18:15:28 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[01-Sep-2023 18:15:28 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[01-Sep-2023 21:15:28 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[01-Sep-2023 21:15:28 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[01-Sep-2023 18:15:28 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[01-Sep-2023 18:15:28 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[01-Sep-2023 21:15:28 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[01-Sep-2023 21:15:28 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[01-Sep-2023 18:15:28 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[01-Sep-2023 18:15:28 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[01-Sep-2023 21:15:28 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[01-Sep-2023 21:15:28 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[01-Sep-2023 18:15:28 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[01-Sep-2023 18:15:28 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[01-Sep-2023 21:15:28 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[01-Sep-2023 21:15:28 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[01-Sep-2023 18:15:29 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[01-Sep-2023 18:15:29 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[01-Sep-2023 21:15:29 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[01-Sep-2023 21:15:29 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[01-Sep-2023 18:15:29 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[01-Sep-2023 18:15:29 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[01-Sep-2023 21:15:29 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[01-Sep-2023 21:15:29 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[01-Sep-2023 18:15:30 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[01-Sep-2023 18:15:30 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[01-Sep-2023 21:15:30 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[01-Sep-2023 21:15:30 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Sep-2023 12:22:39 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Sep-2023 12:22:39 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Sep-2023 15:22:39 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Sep-2023 15:22:39 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Sep-2023 12:22:45 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Sep-2023 12:22:45 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Sep-2023 15:22:45 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Sep-2023 15:22:45 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Sep-2023 12:22:50 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Sep-2023 12:22:50 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Sep-2023 15:22:50 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Sep-2023 15:22:50 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Sep-2023 12:22:55 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Sep-2023 12:22:55 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Sep-2023 15:22:55 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Sep-2023 15:22:55 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Sep-2023 12:34:21 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Sep-2023 12:34:21 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Sep-2023 15:34:21 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Sep-2023 15:34:21 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Sep-2023 12:34:27 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Sep-2023 12:34:27 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Sep-2023 15:34:27 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Sep-2023 15:34:27 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Sep-2023 12:34:34 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Sep-2023 12:34:34 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Sep-2023 15:34:34 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Sep-2023 15:34:34 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Sep-2023 12:34:52 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Sep-2023 12:34:52 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Sep-2023 15:34:52 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Sep-2023 15:34:52 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Sep-2023 12:35:10 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Sep-2023 12:35:10 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Sep-2023 15:35:10 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Sep-2023 15:35:10 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Sep-2023 12:35:10 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Sep-2023 12:35:10 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Sep-2023 15:35:10 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Sep-2023 15:35:10 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Sep-2023 12:35:10 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Sep-2023 12:35:10 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Sep-2023 12:35:10 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Sep-2023 12:35:10 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Sep-2023 15:35:10 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Sep-2023 15:35:10 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Sep-2023 12:35:10 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Sep-2023 12:35:10 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Sep-2023 15:35:10 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Sep-2023 15:35:10 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Sep-2023 12:35:10 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Sep-2023 12:35:10 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Sep-2023 15:35:10 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Sep-2023 15:35:10 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Sep-2023 15:35:10 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Sep-2023 15:35:10 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Sep-2023 12:35:11 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Sep-2023 12:35:11 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Sep-2023 15:35:11 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Sep-2023 15:35:11 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Sep-2023 12:35:11 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Sep-2023 12:35:11 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Sep-2023 15:35:11 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Sep-2023 15:35:11 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Sep-2023 12:35:21 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Sep-2023 12:35:21 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Sep-2023 15:35:21 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Sep-2023 15:35:21 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Sep-2023 12:35:32 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Sep-2023 12:35:32 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Sep-2023 15:35:32 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Sep-2023 15:35:32 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[25-Sep-2023 14:55:18 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[25-Sep-2023 14:55:18 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[25-Sep-2023 17:55:18 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[25-Sep-2023 17:55:18 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[25-Sep-2023 14:55:35 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[25-Sep-2023 14:55:35 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[25-Sep-2023 17:55:35 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[25-Sep-2023 17:55:35 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[25-Sep-2023 14:55:39 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[25-Sep-2023 14:55:39 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[25-Sep-2023 17:55:39 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[25-Sep-2023 17:55:39 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[25-Sep-2023 14:55:43 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[25-Sep-2023 14:55:43 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[25-Sep-2023 17:55:43 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[25-Sep-2023 17:55:43 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[25-Sep-2023 14:55:46 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[25-Sep-2023 14:55:46 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[25-Sep-2023 17:55:46 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[25-Sep-2023 17:55:46 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:45:22 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:45:22 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:45:22 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:45:22 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:45:26 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:45:26 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:45:26 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:45:26 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:45:32 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:45:33 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:45:33 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:45:33 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:45:34 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:45:34 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:45:34 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:45:34 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:45:36 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:45:36 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:45:36 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:45:36 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:45:38 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:45:39 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:45:39 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:45:39 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:45:41 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:45:41 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:45:41 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:45:41 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:45:43 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:45:43 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:45:43 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:45:43 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:45:44 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:45:44 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:45:44 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:45:44 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:45:47 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:45:47 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:45:47 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:45:47 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:45:51 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:45:51 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:45:51 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:45:51 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:45:53 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:45:53 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:45:53 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:45:53 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:45:54 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:45:54 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:45:54 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:45:54 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:45:55 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:45:55 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:45:55 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:45:55 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:45:55 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:45:56 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:45:56 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:45:56 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:45:59 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:45:59 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:45:59 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:45:59 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:46:00 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:46:00 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:46:00 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:46:00 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:46:01 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:46:01 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:46:01 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:46:01 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:46:03 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:46:03 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:46:03 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:46:03 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:46:04 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:46:04 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:46:04 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:46:04 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:46:05 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:46:05 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:46:05 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:46:05 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:46:05 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:46:05 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:46:05 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:46:05 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:46:08 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:46:08 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:46:08 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:46:08 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:46:10 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:46:10 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:46:10 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:46:10 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:46:11 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:46:11 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:46:11 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:46:11 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:46:11 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:46:12 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:46:12 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:46:12 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:46:18 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:46:18 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:46:18 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:46:18 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:46:21 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:46:21 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:46:21 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:46:21 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:46:23 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:46:23 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:46:23 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:46:23 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:11 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:11 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:11 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:11 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:14 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:14 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:14 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:14 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:14 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:14 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:14 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:14 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:15 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:15 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:15 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:15 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:15 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:15 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:15 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:15 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:15 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:15 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:15 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:15 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:15 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:15 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:15 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 13:47:15 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:15 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:15 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 16:47:15 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:15 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:15 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:15 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:15 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:15 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:15 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:15 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:15 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:15 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:15 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:15 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:15 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:15 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:15 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:15 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:15 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:15 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:16 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:16 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:16 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:16 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:16 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:16 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:16 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:16 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:16 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:16 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:16 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:16 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:16 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:16 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:16 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:16 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:16 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:16 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:16 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:16 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:17 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:17 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 13:47:17 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:17 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:17 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 13:47:17 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 16:47:17 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:17 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 13:47:17 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:17 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 13:47:17 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:17 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:17 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:17 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:17 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:17 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:17 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:17 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 16:47:17 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:17 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 16:47:17 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:17 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 16:47:17 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:17 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:18 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:18 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 13:47:18 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:18 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:18 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:18 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:18 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:18 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 13:47:18 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:18 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:18 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:18 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:18 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:18 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 13:47:18 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:18 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:18 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:18 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 16:47:18 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:18 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 16:47:18 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:18 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 16:47:18 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:18 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:18 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:18 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 13:47:18 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:18 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:18 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:18 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:18 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:18 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 13:47:18 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:18 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:18 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:18 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 16:47:18 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:18 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 16:47:18 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:18 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:28 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:28 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:28 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:28 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 13:47:28 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 13:47:28 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 13:47:28 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:28 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 13:47:28 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:28 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:28 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:28 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 16:47:28 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:28 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 16:47:28 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:28 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:28 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:28 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:28 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:28 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 16:47:28 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:28 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 16:47:28 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:28 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:29 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:29 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:29 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:29 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:29 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:29 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:29 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:29 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:30 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:30 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:30 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:30 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:32 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:32 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:32 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:32 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:33 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:33 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:33 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:33 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:36 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:36 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:36 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:36 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:38 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:38 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:38 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:38 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:39 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:39 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:39 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:39 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:40 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:40 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:40 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:40 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:41 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:41 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:41 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:41 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:44 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:44 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:44 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:44 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:45 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:45 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:45 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:45 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:46 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:46 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:46 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:46 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:47 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:47 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:47 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:47 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:48 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:48 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:48 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:48 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:49 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:49 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:49 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:49 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:50 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:50 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:50 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:50 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:52 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:52 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:52 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:52 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:53 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:53 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:53 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:53 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:54 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:54 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:54 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:54 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:56 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:56 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:56 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:56 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:47:57 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:47:57 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:47:57 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:47:57 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Oct-2023 13:48:05 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[22-Oct-2023 13:48:05 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[22-Oct-2023 16:48:05 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[22-Oct-2023 16:48:05 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[23-Nov-2023 12:01:05 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[23-Nov-2023 12:01:05 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[23-Nov-2023 12:01:05 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[23-Nov-2023 12:01:05 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[23-Nov-2023 15:01:05 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[23-Nov-2023 15:01:05 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[23-Nov-2023 15:01:05 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[23-Nov-2023 15:01:05 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[23-Nov-2023 12:01:05 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[23-Nov-2023 12:01:05 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[23-Nov-2023 15:01:05 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[23-Nov-2023 15:01:05 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[23-Nov-2023 12:01:06 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[23-Nov-2023 12:01:06 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[23-Nov-2023 15:01:06 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[23-Nov-2023 15:01:06 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[23-Nov-2023 12:01:06 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[23-Nov-2023 12:01:06 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[23-Nov-2023 15:01:06 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[23-Nov-2023 15:01:06 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[23-Nov-2023 12:01:06 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[23-Nov-2023 12:01:06 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[23-Nov-2023 15:01:06 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[23-Nov-2023 15:01:06 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[23-Nov-2023 12:01:06 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[23-Nov-2023 12:01:06 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[23-Nov-2023 15:01:06 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[23-Nov-2023 15:01:06 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[23-Nov-2023 12:01:06 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[23-Nov-2023 12:01:06 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[23-Nov-2023 15:01:06 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[23-Nov-2023 15:01:06 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[23-Nov-2023 12:01:14 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[23-Nov-2023 12:01:14 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[23-Nov-2023 12:01:14 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[23-Nov-2023 12:01:14 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[23-Nov-2023 15:01:14 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[23-Nov-2023 15:01:14 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[23-Nov-2023 12:01:14 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[23-Nov-2023 12:01:14 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[23-Nov-2023 15:01:14 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[23-Nov-2023 15:01:14 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[23-Nov-2023 12:01:14 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[23-Nov-2023 12:01:14 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[23-Nov-2023 12:01:14 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[23-Nov-2023 12:01:14 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[23-Nov-2023 15:01:14 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[23-Nov-2023 15:01:14 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[23-Nov-2023 15:01:14 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[23-Nov-2023 15:01:14 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[23-Nov-2023 15:01:14 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[23-Nov-2023 15:01:14 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[23-Nov-2023 12:01:14 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[23-Nov-2023 12:01:14 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[23-Nov-2023 15:01:14 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[23-Nov-2023 15:01:14 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[23-Nov-2023 12:01:15 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[23-Nov-2023 12:01:15 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[23-Nov-2023 12:01:15 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[23-Nov-2023 12:01:15 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[23-Nov-2023 15:01:15 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[23-Nov-2023 15:01:15 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[23-Nov-2023 15:01:15 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[23-Nov-2023 15:01:15 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[23-Nov-2023 12:01:20 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[23-Nov-2023 12:01:20 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[23-Nov-2023 15:01:20 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[23-Nov-2023 15:01:20 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[23-Nov-2023 12:01:21 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[23-Nov-2023 12:01:21 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[23-Nov-2023 15:01:21 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[23-Nov-2023 15:01:21 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[23-Nov-2023 12:01:23 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[23-Nov-2023 12:01:23 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[23-Nov-2023 15:01:23 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[23-Nov-2023 15:01:23 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[23-Nov-2023 12:01:25 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[23-Nov-2023 12:01:25 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[23-Nov-2023 15:01:25 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[23-Nov-2023 15:01:25 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[23-Nov-2023 12:01:28 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[23-Nov-2023 12:01:28 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[23-Nov-2023 15:01:28 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[23-Nov-2023 15:01:28 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[23-Nov-2023 12:01:29 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[23-Nov-2023 12:01:29 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[23-Nov-2023 15:01:29 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[23-Nov-2023 15:01:29 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[23-Nov-2023 12:01:30 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[23-Nov-2023 12:01:30 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[23-Nov-2023 15:01:31 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[23-Nov-2023 15:01:31 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[23-Nov-2023 12:01:32 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[23-Nov-2023 12:01:32 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[23-Nov-2023 15:01:32 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[23-Nov-2023 15:01:32 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[23-Nov-2023 12:01:33 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 166
+[23-Nov-2023 12:01:33 UTC] PHP Deprecated:  Required parameter $array follows optional parameter $row in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 194
+[23-Nov-2023 15:01:33 Africa/Nairobi] PHP Warning:  Trying to access array offset on value of type null in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 466
+[23-Nov-2023 15:01:33 Africa/Nairobi] PHP Warning:  Undefined variable $secret_iv in /home/angacinemas/hello.angacinemas.com/model/operations2.php on line 472
+[22-Aug-2024 11:15:18 UTC] PHP Warning:  Failed to set memory limit to 1000 bytes (Current memory usage is 2097152 bytes) in Unknown on line 0

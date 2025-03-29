@@ -1,0 +1,297 @@
+2024-06-21 11:47:01 - Setting Content-Type to application/json
+2024-06-21 11:47:01 - Getting request body
+2024-06-21 11:47:01 - Computing: Getting request body
+2024-06-21 11:47:01 - Request body: {"status":"SUCCESS","amount":"1.00","ref":"171895958299264793","orderId":"O0CJZ2WI","description":"Ok","runningBalance":"","checksum":"7888d6ada75e27c9261b9e6234d39eccfaa2e3b31c2702a98ccda31f932837fb"}
+2024-06-21 11:47:01 - Computing: Checking if string is JSON
+2024-06-21 11:47:01 - Result: true
+2024-06-21 11:47:01 - Request data: Array
+(
+    [status] => SUCCESS
+    [amount] => 1.00
+    [ref] => 171895958299264793
+    [orderId] => O0CJZ2WI
+    [description] => Ok
+    [runningBalance] => 
+    [checksum] => 7888d6ada75e27c9261b9e6234d39eccfaa2e3b31c2702a98ccda31f932837fb
+)
+
+2024-06-21 11:47:01 - Selecting rows from temp_data and bookings
+2024-06-21 12:22:29 - Setting Content-Type to application/json
+2024-06-21 12:22:29 - Getting request body
+2024-06-21 12:22:29 - Computing: Getting request body
+2024-06-21 12:22:29 - Request body: {"status":"SUCCESS","amount":"1.00","ref":"171896171930256972","orderId":"GLIIIB1Q","description":"Ok","runningBalance":"","checksum":"c6eea4df48cfc2079fb373e48ad6b6d68b1dc617490c3a1bf8d52507df1a0259"}
+2024-06-21 12:22:29 - Computing: Checking if string is JSON
+2024-06-21 12:22:29 - Result: true
+2024-06-21 12:22:29 - Request data: Array
+(
+    [status] => SUCCESS
+    [amount] => 1.00
+    [ref] => 171896171930256972
+    [orderId] => GLIIIB1Q
+    [description] => Ok
+    [runningBalance] => 
+    [checksum] => c6eea4df48cfc2079fb373e48ad6b6d68b1dc617490c3a1bf8d52507df1a0259
+)
+
+2024-06-21 12:22:29 - Selecting rows from temp_data and bookings
+2024-06-21 12:25:06 - Setting Content-Type to application/json
+2024-06-21 12:25:06 - Getting request body
+2024-06-21 12:25:06 - Computing: Getting request body
+2024-06-21 12:25:06 - Request body: {"status":"SUCCESS","amount":"1.00","ref":"171896188095818519","orderId":"8A27EHJK","description":"Ok","runningBalance":"","checksum":"a082e8693bf1cc67345a485f6e9aaf2b8209782072012a0476b8b4f3102092de"}
+2024-06-21 12:25:06 - Computing: Checking if string is JSON
+2024-06-21 12:25:06 - Result: true
+2024-06-21 12:25:06 - Request data: Array
+(
+    [status] => SUCCESS
+    [amount] => 1.00
+    [ref] => 171896188095818519
+    [orderId] => 8A27EHJK
+    [description] => Ok
+    [runningBalance] => 
+    [checksum] => a082e8693bf1cc67345a485f6e9aaf2b8209782072012a0476b8b4f3102092de
+)
+
+2024-06-21 12:25:06 - Selecting rows from temp_data and bookings
+2024-06-21 18:56:14 - Setting Content-Type to application/json
+2024-06-21 18:56:14 - Getting request body
+2024-06-21 18:56:14 - Computing: Getting request body
+2024-06-21 18:56:14 - Request body: 
+2024-06-21 18:56:14 - Request data: Array
+(
+)
+
+2024-06-21 18:56:14 - Request body is empty
+2024-06-21 18:56:14 - Computing: Sending message
+2024-06-21 18:56:14 - Response: Array
+(
+    [status] => 
+    [code] => 400
+    [message] => The request body is empty!
+    [data] => Array
+        (
+        )
+
+)
+
+2024-06-23 22:59:48 - Setting Content-Type to application/json
+2024-06-23 22:59:48 - Getting request body
+2024-06-23 22:59:48 - Computing: Getting request body
+2024-06-23 22:59:48 - Request body: {"status":"SUCCESS","amount":"1.00","ref":"171917276831423912","orderId":"4WTmj1nNJ4","description":"Ok","runningBalance":"","checksum":"be5cc2a206d3569ee89118ec10a7eb2af78952b91cfbaf97043c8cb24ffd2c17"}
+2024-06-23 22:59:48 - Computing: Checking if string is JSON
+2024-06-23 22:59:48 - Result: true
+2024-06-23 22:59:48 - Request data: Array
+(
+    [status] => SUCCESS
+    [amount] => 1.00
+    [ref] => 171917276831423912
+    [orderId] => 4WTmj1nNJ4
+    [description] => Ok
+    [runningBalance] => 
+    [checksum] => be5cc2a206d3569ee89118ec10a7eb2af78952b91cfbaf97043c8cb24ffd2c17
+)
+
+2024-06-23 22:59:48 - Selecting rows from temp_data and bookings
+2024-06-24 11:20:42 - Setting Content-Type to application/json
+2024-06-24 11:20:42 - Getting request body
+2024-06-24 11:20:42 - Computing: Getting request body
+2024-06-24 11:20:42 - Request body: 
+2024-06-24 11:20:42 - Request data: Array
+(
+)
+
+2024-06-24 11:20:42 - Request body is empty
+2024-06-24 11:20:42 - Computing: Sending message
+2024-06-24 11:20:42 - Response: Array
+(
+    [status] => 
+    [code] => 400
+    [message] => The request body is empty!
+    [data] => Array
+        (
+        )
+
+)
+
+2024-06-25 07:31:45 - Setting Content-Type to application/json
+2024-06-25 07:31:45 - Getting request body
+2024-06-25 07:31:45 - Computing: Getting request body
+2024-06-25 07:31:45 - Request body: {"status":"SUCCESS","amount":"1.00","ref":"17192898795327198","orderId":"CI1NT1OL","description":"Ok","runningBalance":"","checksum":"8b9928010ed4d2da113afb693417a3b81afd871ae1d75fe66310382751db17cd"}
+2024-06-25 07:31:45 - Computing: Checking if string is JSON
+2024-06-25 07:31:45 - Result: true
+2024-06-25 07:31:45 - Request data: Array
+(
+    [status] => SUCCESS
+    [amount] => 1.00
+    [ref] => 17192898795327198
+    [orderId] => CI1NT1OL
+    [description] => Ok
+    [runningBalance] => 
+    [checksum] => 8b9928010ed4d2da113afb693417a3b81afd871ae1d75fe66310382751db17cd
+)
+
+2024-06-25 07:31:45 - Selecting rows from temp_data and bookings
+2024-06-25 07:52:15 - Setting Content-Type to application/json
+2024-06-25 07:52:15 - Getting request body
+2024-06-25 07:52:15 - Computing: Getting request body
+2024-06-25 07:52:15 - Request body: {"status":"SUCCESS","amount":"1.00","ref":"171929111430446187","orderId":"2Ajk9wzaaC","description":"Ok","runningBalance":"","checksum":"1e2df2623c920b983d283e1922c1a1191a0e119454329a3227a2bcb2cc382003"}
+2024-06-25 07:52:15 - Computing: Checking if string is JSON
+2024-06-25 07:52:15 - Result: true
+2024-06-25 07:52:15 - Request data: Array
+(
+    [status] => SUCCESS
+    [amount] => 1.00
+    [ref] => 171929111430446187
+    [orderId] => 2Ajk9wzaaC
+    [description] => Ok
+    [runningBalance] => 
+    [checksum] => 1e2df2623c920b983d283e1922c1a1191a0e119454329a3227a2bcb2cc382003
+)
+
+2024-06-25 07:52:15 - Selecting rows from temp_data and bookings
+2024-06-25 07:56:09 - Setting Content-Type to application/json
+2024-06-25 07:56:09 - Getting request body
+2024-06-25 07:56:09 - Computing: Getting request body
+2024-06-25 07:56:09 - Request body: {"status":"SUCCESS","amount":"1.00","ref":"171929135080638225","orderId":"0lP4WAcjLF","description":"Ok","runningBalance":"","checksum":"b4833a0fadb15b5755663c19243012ca928edf093190c74909c09b219f57fa19"}
+2024-06-25 07:56:09 - Computing: Checking if string is JSON
+2024-06-25 07:56:09 - Result: true
+2024-06-25 07:56:09 - Request data: Array
+(
+    [status] => SUCCESS
+    [amount] => 1.00
+    [ref] => 171929135080638225
+    [orderId] => 0lP4WAcjLF
+    [description] => Ok
+    [runningBalance] => 
+    [checksum] => b4833a0fadb15b5755663c19243012ca928edf093190c74909c09b219f57fa19
+)
+
+2024-06-25 07:56:09 - Selecting rows from temp_data and bookings
+2024-06-25 11:29:17 - Setting Content-Type to application/json
+2024-06-25 11:29:17 - Getting request body
+2024-06-25 11:29:17 - Computing: Getting request body
+2024-06-25 11:29:17 - Request body: {"status":"SUCCESS","amount":"1.00","ref":"171930404807755366","orderId":"Q6PPKN1C","description":"Ok","runningBalance":"","checksum":"87f5ebc063f16c425e2843d654bd24ef8904d929a3eddbd0fa23bd266d698752"}
+2024-06-25 11:29:17 - Computing: Checking if string is JSON
+2024-06-25 11:29:17 - Result: true
+2024-06-25 11:29:17 - Request data: Array
+(
+    [status] => SUCCESS
+    [amount] => 1.00
+    [ref] => 171930404807755366
+    [orderId] => Q6PPKN1C
+    [description] => Ok
+    [runningBalance] => 
+    [checksum] => 87f5ebc063f16c425e2843d654bd24ef8904d929a3eddbd0fa23bd266d698752
+)
+
+2024-06-25 11:29:17 - Selecting rows from temp_data and bookings
+2024-06-25 11:56:16 - Setting Content-Type to application/json
+2024-06-25 11:56:16 - Getting request body
+2024-06-25 11:56:16 - Computing: Getting request body
+2024-06-25 11:56:16 - Request body: {"status":"SUCCESS","amount":"1.00","ref":"17193056848111480","orderId":"AR6Q6QJT","description":"Ok","runningBalance":"","checksum":"c304291b95da1fa7d2db954432e3d137e9fb8adf853955e34fb2a1295e307a8a"}
+2024-06-25 11:56:16 - Computing: Checking if string is JSON
+2024-06-25 11:56:16 - Result: true
+2024-06-25 11:56:16 - Request data: Array
+(
+    [status] => SUCCESS
+    [amount] => 1.00
+    [ref] => 17193056848111480
+    [orderId] => AR6Q6QJT
+    [description] => Ok
+    [runningBalance] => 
+    [checksum] => c304291b95da1fa7d2db954432e3d137e9fb8adf853955e34fb2a1295e307a8a
+)
+
+2024-06-25 11:56:16 - Selecting rows from temp_data and bookings
+2024-06-25 12:23:12 - Setting Content-Type to application/json
+2024-06-25 12:23:12 - Getting request body
+2024-06-25 12:23:12 - Computing: Getting request body
+2024-06-25 12:23:12 - Request body: {"status":"SUCCESS","amount":"1.00","ref":"17193073608281840","orderId":"8XP054X5","description":"Ok","runningBalance":"","checksum":"0c2c127fe03f5759c8e51062c437e078a83b682c4d66a077fb3c6358d93e4c1a"}
+2024-06-25 12:23:12 - Computing: Checking if string is JSON
+2024-06-25 12:23:12 - Result: true
+2024-06-25 12:23:12 - Request data: Array
+(
+    [status] => SUCCESS
+    [amount] => 1.00
+    [ref] => 17193073608281840
+    [orderId] => 8XP054X5
+    [description] => Ok
+    [runningBalance] => 
+    [checksum] => 0c2c127fe03f5759c8e51062c437e078a83b682c4d66a077fb3c6358d93e4c1a
+)
+
+2024-06-25 12:23:12 - Selecting rows from temp_data and bookings
+2024-07-05 07:15:50 - Setting Content-Type to application/json
+2024-07-05 07:15:50 - Getting request body
+2024-07-05 07:15:50 - Computing: Getting request body
+2024-07-05 07:15:50 - Request body: {"status":"SUCCESS","amount":"1.00","ref":"172015291735955093","orderId":"cyab4SPEyp","description":"Ok","runningBalance":"","checksum":"434da9f8bec785731b7e21687aae71b9cafc881c3980ef94664f9ba1a71653e0"}
+2024-07-05 07:15:50 - Computing: Checking if string is JSON
+2024-07-05 07:15:50 - Result: true
+2024-07-05 07:15:50 - Request data: Array
+(
+    [status] => SUCCESS
+    [amount] => 1.00
+    [ref] => 172015291735955093
+    [orderId] => cyab4SPEyp
+    [description] => Ok
+    [runningBalance] => 
+    [checksum] => 434da9f8bec785731b7e21687aae71b9cafc881c3980ef94664f9ba1a71653e0
+)
+
+2024-07-05 07:15:50 - Selecting rows from temp_data and bookings
+2024-07-12 11:42:37 - Setting Content-Type to application/json
+2024-07-12 11:42:37 - Getting request body
+2024-07-12 11:42:37 - Computing: Getting request body
+2024-07-12 11:42:37 - Request body: {"status":"SUCCESS","amount":"1.00","ref":"172077372735549560","orderId":"S3AMQ9LF","description":"Ok","runningBalance":"","checksum":"d667f40ec721c7049a8b6ca2589a56063857f3cd65e3c9fc756bc24d27fd4e91"}
+2024-07-12 11:42:37 - Computing: Checking if string is JSON
+2024-07-12 11:42:37 - Result: true
+2024-07-12 11:42:37 - Request data: Array
+(
+    [status] => SUCCESS
+    [amount] => 1.00
+    [ref] => 172077372735549560
+    [orderId] => S3AMQ9LF
+    [description] => Ok
+    [runningBalance] => 
+    [checksum] => d667f40ec721c7049a8b6ca2589a56063857f3cd65e3c9fc756bc24d27fd4e91
+)
+
+2024-07-12 11:42:37 - Selecting rows from temp_data and bookings
+2024-07-13 13:32:20 - Setting Content-Type to application/json
+2024-07-13 13:32:20 - Getting request body
+2024-07-13 13:32:20 - Computing: Getting request body
+2024-07-13 13:32:20 - Request body: {"status":"SUCCESS","amount":"1.00","ref":"172086671604373761","orderId":"dglfmwYDRT","description":"Ok","runningBalance":"","checksum":"f3165b3a2baf78812a39651a2a4966ef2bded5cbbeb85962a34c30d4f638292a"}
+2024-07-13 13:32:20 - Computing: Checking if string is JSON
+2024-07-13 13:32:20 - Result: true
+2024-07-13 13:32:20 - Request data: Array
+(
+    [status] => SUCCESS
+    [amount] => 1.00
+    [ref] => 172086671604373761
+    [orderId] => dglfmwYDRT
+    [description] => Ok
+    [runningBalance] => 
+    [checksum] => f3165b3a2baf78812a39651a2a4966ef2bded5cbbeb85962a34c30d4f638292a
+)
+
+2024-07-13 13:32:20 - Selecting rows from temp_data and bookings
+2024-07-25 16:50:47 - Setting Content-Type to application/json
+2024-07-25 16:50:47 - Getting request body
+2024-07-25 16:50:47 - Computing: Getting request body
+2024-07-25 16:50:47 - Request body: 
+2024-07-25 16:50:47 - Request data: Array
+(
+)
+
+2024-07-25 16:50:47 - Request body is empty
+2024-07-25 16:50:47 - Computing: Sending message
+2024-07-25 16:50:47 - Response: Array
+(
+    [status] => 
+    [code] => 400
+    [message] => The request body is empty!
+    [data] => Array
+        (
+        )
+
+)
+

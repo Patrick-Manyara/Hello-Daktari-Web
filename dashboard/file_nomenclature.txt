@@ -1,0 +1,4 @@
+admin.php (singular)
+view_admins.php (plural)
+
+ALT+SHIFT+F
