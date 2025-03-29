@@ -11,7 +11,7 @@ const NO_SPECIAL_CHAR =  '/^[\w]+$/';
 
 // database connection 
 
-$isOnline = false; // Set this to true for online, false for offline
+$isOnline = true; // Set this to true for online, false for offline
 
 if ($isOnline) {
     // ONLINE
